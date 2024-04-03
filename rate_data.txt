@@ -1,0 +1,41 @@
+Organisation	Rate (low)	Rate (high)	URL
+University of Nebraska	48	64	https://www.unmc.edu/bsbc/services/pricing.html
+University Notre Dame	52	92.8	https://genomics.nd.edu/rates/
+Harvard University	128	212	https://bioinformatics.sph.harvard.edu/working-us
+Sheffield University	85	85	https://sbc.shef.ac.uk/collaboration/costing
+Arizona state university	60	60	https://cores.research.asu.edu/bioinformatics/rates
+Pennsylvania Univeristy	65.6	65.6	https://bioinfo.med.upenn.edu/services/
+Florida University	57.6	74.88	https://biotech.ufl.edu/bioinformatics/services/
+Indianna University	96	96	https://medicine.iu.edu/research-centers/computational-biology-bioinformatics/bioinformatics-core
+Houston University	80	160	https://www.uth.edu/bioinformatics/
+La Jolla University	114.49	218	https://www.lji.org/research/research-services/bioinformatics/
+Michigan University	53.6	68.8	https://bioinformatics.msu.edu/Services-and-Pricing
+Oregon University	92	160	https://www.ohsu.edu/sites/default/files/2023-06/YR64%20BBC%20External%20Rate%20Sheet.pdf
+Georgetown University	80	240	https://biostatistics.georgetown.edu/consulting/consulting-fees/#
+Glasgow University	30	30	https://www.gla.ac.uk/schools/infectionimmunity/facilities/bioinformaticcore/
+Quebec University	56	101.78	https://www.cermofc.uqam.ca/en/technological-platforms/bio-informatics/#1616431077103-208507a7-e418
+Georgia University	60	75.2	https://dna.uga.edu/bioinformatics/
+Vermont University	104	152	https://www.med.uvm.edu/vigr/bioinformatics
+Washington University	76	116	https://regenerativemedicine.wustl.edu/cores/brc/
+StonyBrook Medical School	35.2	35.2	https://osa.stonybrookmedicine.edu/research-core-facilities/genomics/bioinformatics
+UC San Diego	144	417.6	http://compbio.ucsd.edu/services/analytical-services/
+Cincinnati University	100	140	https://researchdirectory.uc.edu/facilities/160
+Miami University	80	80	"https://umiamihealth.org/en/sylvester-comprehensive-cancer-center/research/research-resources/shared-resources/biostatistics-,-a-,-bioinformatics-shared-resource/fees"
+University of Hawaii	96	96	https://qhs.jabsom.hawaii.edu/bioinformatics-core/services/
+Kansas University	44	69.6	https://www.kumc.edu/research/kansas-intellectual-and-developmental-disabilities-research-center/core-services/bioinformatics/pricing.html
+Texas University	78.4	99.2	https://site.research.utexas.edu/cbrs/cores/cbb/fees/
+Boyce Thompson Institute	40	72	https://btiscience.org/our-research/computational-biology/educationtraining/
+Sherbrooke University	37.95	65.55	https://rnomics.med.usherbrooke.ca/services/bioinformatics
+Delaware University	68	160	https://bioinformatics.udel.edu/core/fees/
+Salamanca University	21.5	38.7	https://bioinfo.usal.es/rates_en
+Calgary University	69	69	https://cumming.ucalgary.ca/research/cat/health-genomics/pricing
+University of California Riverside	72	167.94	https://facility.bioinformatics.ucr.edu/about/services/
+Tufts University	40	96	http://tucf-genomics.tufts.edu/home/bioinformatics
+Gothenburg University	40.7	40.7	https://www.gu.se/en/core-facilities/infrastructure-at-core-facilities/bioinformatics-and-data-centre-bdc/access-our-services-and-support
+Aarhus University	60.5	165	https://biomed.au.dk/bioinformatics-core-facility
+Ohio State University	96	160	https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/shared-resources/biomedical-informatics/services
+UCLA Health	58.4	88.8	https://www.uclahealth.org/sites/default/files/documents/9e/ucla-tcgb-rates-publication-8-1-23-final-version.pdf?f=df27dbc8
+Canadian Computational Genomics	75.9	89.7	https://computationalgenomics.ca/services/
+University of British Columbia	20.7	20.7	https://lsi.ubc.ca/resources/facilities/bioinformatics/
+BADERC	120	240	https://www.baderc.org/cores/functional-genomics-and-bioinformatics-core/
+Nebraska Centre for Biotech	72	220	https://biotech.unl.edu/bioinformatics#tab3
