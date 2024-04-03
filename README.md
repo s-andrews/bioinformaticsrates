@@ -26,5 +26,7 @@ Summary
 -------
 ![Rate Summary Graph](https://raw.githubusercontent.com/s-andrews/bioinformaticsrates/main/rate_summary_graph.png)
 
-
+Details
+-------
+See the full report and data [here](https://html-preview.github.io/?url=https://github.com/s-andrews/bioinformaticsrates/blob/main/bioinformatics_hourly_rates.html)
   
