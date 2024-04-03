@@ -1,0 +1,47 @@
+---
+title: "Bioinformatics Core Facility Rates"
+output:
+  html_document:
+    df_print: paged
+---
+
+Introduction
+============
+
+To try to get a sense for the market for bioinformatics services I have collected hourly rate data from as many bioinformatics core facilities as I could find.  The data was collected on 3rd April 2024 and all prices are converted into UK pounds at the advertised exchange rates on the day.
+
+```{r message=FALSE, echo=FALSE, warning=FALSE}
+library(tidyverse)
+theme_set(theme_bw())
+```
+
+Data
+====
+
+This is the data I collected.  Where a range of rates were advertised I took the lowest and highest prices.  These mostly represent the difference between prices for internal and external customers, but for some facilities they make a distinction based on who is doing the analysis - ie MSc researchers costs less per hour than having the facility director work on the data.
+
+```{r message=FALSE, echo=FALSE}
+read_delim("rate_data.txt") -> rate_data
+rate_data %>% arrange(Organisation)
+```
+
+Visualisation
+=============
+
+```{r fig.width=6, fig.height=8, echo=FALSE}
+rate_data %>%
+  select(-URL) %>%
+  mutate(median=apply(cbind(`Rate (low)`,`Rate (high)`),1,median)) %>%
+  arrange(median) %>%
+  mutate(Organisation=factor(Organisation, levels=Organisation)) -> plot_data
+
+plot_data %>%
+  ggplot(aes(x=Organisation, y=`Rate (low)`,ystart=`Rate (low)`, yend=`Rate (high)`, xstart=Organisation, xend=Organisation)) +
+  geom_segment(linewidth=2, colour="darkgrey") +
+  geom_point(colour="magenta3", size=3) +
+  geom_point(aes(y=`Rate (high)`), colour="red2", size=3) +
+  coord_flip() +
+  ylab("Hourly Rate (UK Pounds)") +
+  xlab(NULL) 
+```
+
