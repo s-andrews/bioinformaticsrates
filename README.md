@@ -22,7 +22,9 @@ In each case I have simply taken the lowest and highest advertised hourly rates 
 3. Differing calculations may go into the assignment of time (does compute time count for example)
 4. Some of the posted values may not actually be correct at the current date (I ignored some sites with rates dated well before the current date)
 
-   
+Summary
+-------
+![Rate Summary Graph](https://raw.githubusercontent.com/s-andrews/bioinformaticsrates/main/rate_summary_graph.png)
 
 
   
