@@ -15,7 +15,7 @@ Gothenburg University	40.7	40.7	https://www.gu.se/en/core-facilities/infrastruct
 Harvard University	128	212	https://bioinformatics.sph.harvard.edu/working-us
 Houston University	80	160	https://www.uth.edu/bioinformatics/
 Indianna University	96	96	https://medicine.iu.edu/research-centers/computational-biology-bioinformatics/bioinformatics-core
-Iowa State University  100  144 https://www.biotech.iastate.edu/gif/rates/
+Iowa State University  64  92 https://www.biotech.iastate.edu/gif/rates/
 Kansas University	44	69.6	https://www.kumc.edu/research/kansas-intellectual-and-developmental-disabilities-research-center/core-services/bioinformatics/pricing.html
 La Jolla University	114.49	218	https://www.lji.org/research/research-services/bioinformatics/
 Miami University	80	80	"https://umiamihealth.org/en/sylvester-comprehensive-cancer-center/research/research-resources/shared-resources/biostatistics-,-a-,-bioinformatics-shared-resource/fees"
