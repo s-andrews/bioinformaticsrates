@@ -39,3 +39,4 @@ Canadian Computational Genomics	75.9	89.7	https://computationalgenomics.ca/servi
 University of British Columbia	20.7	20.7	https://lsi.ubc.ca/resources/facilities/bioinformatics/
 BADERC	120	240	https://www.baderc.org/cores/functional-genomics-and-bioinformatics-core/
 Nebraska Centre for Biotech	72	220	https://biotech.unl.edu/bioinformatics#tab3
+University of Illinois  68.8  84  https://hpcbio.illinois.edu/services-and-fees
